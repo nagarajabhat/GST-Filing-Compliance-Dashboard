@@ -5,6 +5,19 @@ This project presents an interactive **Power BI dashboard** analyzing GST return
 
 The goal is to provide insights that can help understand **GST compliance behavior and filing patterns**.
 
+## Project Story
+
+In India, businesses registered under GST must file tax returns regularly. 
+However, analyzing GST filing compliance across states using raw data is difficult.
+
+This project presents an interactive Power BI dashboard that transforms 
+complex GST datasets into clear visual insights. The dashboard helps analyze 
+state-wise filing behavior, compliance rates, and filing trends using 
+interactive visualizations.
+
+By converting raw data into meaningful insights, the dashboard makes it 
+easier to understand GST filing patterns and identify areas with higher 
+or lower compliance.
 ---
 
 ## 📁 Dataset
